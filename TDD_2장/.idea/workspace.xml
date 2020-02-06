@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f758ff7-b8bd-4d7f-8ea9-42616d3afe2e" name="Default Changelist" comment="" />
+    <list default="true" id="7f758ff7-b8bd-4d7f-8ea9-42616d3afe2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../3장~6장/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3장~6장/src/test/java/webserver/RequestHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3장~6장/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3장~6장/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3장~6장/src/main/java/webserver/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3장~6장/src/main/java/webserver/RequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3장~6장/target/classes/webserver/RequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../3장~6장/target/classes/webserver/RequestHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1X9TZuqlvff542dGE8JX2GDB7aQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -140,10 +152,22 @@
       <workItem from="1580800225314" duration="4643000" />
       <workItem from="1580815055829" duration="1199000" />
       <workItem from="1580853175759" duration="1527000" />
+      <workItem from="1580952493999" duration="1944000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
